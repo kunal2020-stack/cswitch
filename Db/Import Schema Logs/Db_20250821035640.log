@@ -1,0 +1,86 @@
+21-08-2025 21:26:40	This log contains information about the import schema operation into project 'Db' on computer 'LAPTOP-0UPEB4A1' by user 'kunal'.
+21-08-2025 21:26:41	Import of database schema has started.
+21-08-2025 21:26:47	Gathering database credentials
+21-08-2025 21:26:47	Gathering database options
+21-08-2025 21:26:47	Gathering generic database scoped configuration option
+21-08-2025 21:26:47	Gathering users
+21-08-2025 21:26:47	Gathering roles
+21-08-2025 21:26:47	Gathering application roles
+21-08-2025 21:26:47	Gathering role memberships
+21-08-2025 21:26:47	Gathering filegroups
+21-08-2025 21:26:47	Gathering full-text catalogs
+21-08-2025 21:26:47	Gathering assemblies
+21-08-2025 21:26:47	Gathering certificates
+21-08-2025 21:26:47	Gathering asymmetric keys
+21-08-2025 21:26:47	Gathering symmetric keys
+21-08-2025 21:26:47	Gathering encrypted symmetric keys
+21-08-2025 21:26:47	Gathering schemas
+21-08-2025 21:26:47	Gathering XML schema collections
+21-08-2025 21:26:47	Gathering user-defined data types
+21-08-2025 21:26:47	Gathering user-defined types
+21-08-2025 21:26:47	Gathering table types
+21-08-2025 21:26:47	Gathering unique keys for table types
+21-08-2025 21:26:47	Gathering primary keys for table types
+21-08-2025 21:26:48	Gathering indexes for table types
+21-08-2025 21:26:48	Gathering check constraints for table types
+21-08-2025 21:26:48	Gathering default constraints for table types
+21-08-2025 21:26:48	Gathering partition functions
+21-08-2025 21:26:48	Gathering partition schemes
+21-08-2025 21:26:48	Gathering functions
+21-08-2025 21:26:48	Gathering encrypted functions
+21-08-2025 21:26:48	Gathering aggregates
+21-08-2025 21:26:48	Gathering procedures
+21-08-2025 21:26:48	Gathering encrypted procedures
+21-08-2025 21:26:48	Gathering tables
+21-08-2025 21:26:48	Gathering primary keys
+21-08-2025 21:26:48	Gathering unique constraints
+21-08-2025 21:26:48	Gathering foreign keys
+21-08-2025 21:26:48	Gathering default constraints
+21-08-2025 21:26:48	Gathering check constraints
+21-08-2025 21:26:48	Gathering views
+21-08-2025 21:26:48	Gathering encrypted views
+21-08-2025 21:26:48	Gathering indexes
+21-08-2025 21:26:48	Gathering statistics
+21-08-2025 21:26:48	Gathering full-text index stoplists
+21-08-2025 21:26:48	Gathering search property lists
+21-08-2025 21:26:48	Gathering search properties
+21-08-2025 21:26:48	Gathering full-text indexes
+21-08-2025 21:26:48	Gathering column store indexes
+21-08-2025 21:26:48	Gathering spatial indexes
+21-08-2025 21:26:48	Gathering XML indexes
+21-08-2025 21:26:48	Gathering Selective XML indexes
+21-08-2025 21:26:48	Gathering encrypted triggers
+21-08-2025 21:26:48	Gathering triggers
+21-08-2025 21:26:48	Gathering encrypted and clr ddl triggers
+21-08-2025 21:26:48	Gathering ddl triggers
+21-08-2025 21:26:48	Creating edge constraints
+21-08-2025 21:26:48	Gathering synonyms
+21-08-2025 21:26:48	Gathering defaults
+21-08-2025 21:26:48	Gathering data constraint uddt bindings
+21-08-2025 21:26:48	Gathering rules
+21-08-2025 21:26:48	Gathering data constraint uddt bindings
+21-08-2025 21:26:48	Gathering message types
+21-08-2025 21:26:48	Gathering queues
+21-08-2025 21:26:48	Gathering contracts
+21-08-2025 21:26:48	Gathering services
+21-08-2025 21:26:48	Gathering event notifications
+21-08-2025 21:26:48	Gathering remote service bindings
+21-08-2025 21:26:48	Gathering broker priorities
+21-08-2025 21:26:48	Gathering signatures
+21-08-2025 21:26:48	Gathering compression options
+21-08-2025 21:26:48	Gathering sequence types
+21-08-2025 21:26:48	Gathering security policies
+21-08-2025 21:26:48	Gather column encryption keys
+21-08-2025 21:26:48	Gathering column master keys
+21-08-2025 21:26:48	Gathering external data sources
+21-08-2025 21:26:48	Gathering external file formats
+21-08-2025 21:26:48	Gathering external tables
+21-08-2025 21:26:48	Gathering XML index compression options
+21-08-2025 21:26:48	Gathering extended properties
+21-08-2025 21:26:48	Gathering assemblies
+21-08-2025 21:26:48	Gathering credentials
+21-08-2025 21:26:48	Gathering logins
+21-08-2025 21:26:48	Gathering server audits
+21-08-2025 21:26:48	Finished importing database.
+21-08-2025 21:26:48	A summary of the import was saved to the following location: C:\Program Files\Microsoft SQL Server\MSSQL16.SQLEXPRESS05\MSSQL\DATA\Db\Import Schema Logs\Db_20250821035640.log
+21-08-2025 21:26:48	Click Finish to continue...
