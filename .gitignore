@@ -1,0 +1,20 @@
+# Build outputs and IDE
+bin/
+obj/
+.vs/
+*.user
+*.suo
+.vscode/
+
+# SQL Server database binaries (never commit)
+*.mdf
+*.ldf
+*.ndf
+*.bak
+*.trn
+
+# Other large/generated artifacts
+*.dacpac
+*.bacpac
+*.rdl.data
+*.rdl.cache
