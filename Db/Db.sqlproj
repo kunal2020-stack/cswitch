@@ -134,7 +134,4 @@
     <Build Include="Security\Permissions.sql" />
     <Build Include="Tables\dbo.User.sql" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include="Security\dbo.sql" />
-  </ItemGroup>
 </Project>
