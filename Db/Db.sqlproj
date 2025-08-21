@@ -132,6 +132,7 @@
   </ItemGroup>
   <ItemGroup>
     <Build Include="Security\Permissions.sql" />
-    <Build Include="Tables\dbo.User.sql" />
+    <Build Include="Tables\Users.User.sql" />
+    <Build Include="Security\Users.sql" />
   </ItemGroup>
 </Project>
