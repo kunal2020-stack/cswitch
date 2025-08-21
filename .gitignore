@@ -18,3 +18,5 @@ obj/
 *.bacpac
 *.rdl.data
 *.rdl.cache
+/Db/Db.dbmdl
+/Db/Db.jfm

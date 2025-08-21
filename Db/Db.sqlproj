@@ -121,7 +121,6 @@
     <Folder Include="Properties" />
     <Folder Include="Security\" />
     <Folder Include="Tables" />
-    <Folder Include="NewFolder1\" />
   </ItemGroup>
   <ItemGroup>
     <ArtifactReference Include="$(DacPacRootPath)\Extensions\Microsoft\SQLDB\Extensions\SqlServer\160\SqlSchemas\msdb.dacpac">
